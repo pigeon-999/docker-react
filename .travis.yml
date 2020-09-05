@@ -21,6 +21,6 @@ deploy:
   bucket_path: "elasticbeanstalk-ap-northeast-2-016250937053"
   on:
     branch: master
-    
+
   access_key_id: $AWS-ACCESS-KEY
-  secret-access-key: $AWS-SECRET-KEY
+  secre_access_key: $AWS-SECRET-KEY
